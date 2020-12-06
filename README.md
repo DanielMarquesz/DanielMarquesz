@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on First Decision as intern.
 - 🌱 I’m currently learning Node.Js
 - 🤔 I'm looking for help to increase my knowledge more and more :satisfied:
-- 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/daniel-marque-dev/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-marque-dev/)
 - ⚡ Fun fact: I'm a little colorblind
 
 <hr>
