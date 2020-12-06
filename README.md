@@ -1,4 +1,6 @@
-### Hello! :pray:
+### Hello, and welcome to my repository! :pray:
+
+# 
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -18,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Visitor Count](https://profile-counter.glitch.me/DanielMarquesz/count.svg)
