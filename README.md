@@ -1,4 +1,4 @@
-### Hello, and welcome to my repository! :pray:
+### Hello, and welcome to my repository! :hello:
 
 # 
 
