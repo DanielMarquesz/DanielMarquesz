@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/DanielMarquesz)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DanielMarquesz)](https://github.com/DanielMarquesz)                    
 [![Visits Badge](https://badges.pufler.dev/visits/jdromero88/jdromero88)](https://josedromero.com)
 ![Visitor Count](https://profile-counter.glitch.me/DanielMarquesz/count.svg)
