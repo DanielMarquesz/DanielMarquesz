@@ -1,7 +1,7 @@
-### Hello, and welcome to my repository! :shipit:
+### Hello, and welcome to my repository! :+1:
 ![Visits](https://komarev.com/ghpvc/?username=your-github-DanielMarquesz&style=flat-square)
 
-- :speak_no_evil: I’m like to work with HTML, CSS and Javascript and also Python
+- :speak_no_evil: I like to practice HTML, CSS and Javascript and also Python
 - 🔭 I’m currently working on First Decision as intern.
 - 🌱 I’m currently learning Node.Js
 - 🤔 I'm looking for help to increase my knowledge more and more :satisfied:
