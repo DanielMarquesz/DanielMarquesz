@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DanielMarquesz)](https://github.com/DanielMarquesz)                    
-[![Visits Badge](https://badges.pufler.dev/visits/jdromero88/jdromero88)](https://josedromero.com)
-![Visitor Count](https://profile-counter.glitch.me/DanielMarquesz/count.svg)
+
+![Visits](https://komarev.com/ghpvc/?username=your-github-DanielMarquesz&style=flat-square)
