@@ -1,4 +1,5 @@
-### Hello, and welcome to my repository! :hello:
+### Hello, and welcome to my repository! :shipit:
+![Visits](https://komarev.com/ghpvc/?username=your-github-DanielMarquesz&style=flat-square)
 
 # 
 
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visits](https://komarev.com/ghpvc/?username=your-github-DanielMarquesz&style=flat-square)
+
