@@ -11,4 +11,7 @@
 <hr>
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielMarquesz&hide_border=true)](https://github.com/DanielMarquesz)
+
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMarquesz&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
