@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-marque-dev/)
 - ⚡ Fun fact: I'm a little colorblind
 
-<hr>
+<hr style="margin-left:30px">
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielMarquesz&hide_border=true)](https://github.com/DanielMarquesz)
 
