@@ -1,5 +1,4 @@
 ### Hello, and welcome to my repository! :+1:
-![Visits](https://komarev.com/ghpvc/?username=your-github-DanielMarquesz&style=flat-square)
 
 - :speak_no_evil: I like to practice HTML, CSS and Javascript and also Python
 - 🔭 I’m currently working on First Decision as intern.
