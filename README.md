@@ -1,6 +1,6 @@
 ### Hello, and welcome to my repository! :+1:
 
-- :speak_no_evil: I like to practice HTML, CSS and Javascript and also Python
+- :speak_no_evil: I like to practice Javascript and Python exercices.
 - 🔭 I’m currently working on First Decision as intern.
 - 🌱 I’m currently learning Node.Js
 - 🤔 I'm looking for help to increase my knowledge more and more :satisfied:
