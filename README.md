@@ -3,11 +3,13 @@
 
 ![alt text](https://github.com/DanielMarquesz/DanielMarquesz/blob/master/imgs/goodBoo.gif)
 
-:speak_no_evil: I like to practice Javascript logic exercices.
+<ul>
+ <li>:speak_no_evil: I like to practice Javascript logic exercices.</li>
 🌱 I’m currently learning Node.Js
 🤔 I'm looking for help to increase my knowledge more and more :satisfied:
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-marque-dev/)
 ⚡ Fun fact: I'm a little colorblind
+</ul>
 
 <hr>
 
