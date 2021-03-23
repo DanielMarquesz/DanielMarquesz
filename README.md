@@ -1,4 +1,6 @@
-### Hello, and welcome to my repository! :+1:
+## Hello! And thanks for visiting my repository! :+1:
+
+![alt text](https://github.com/DanielMarquesz/DanielMarquesz/blob/master/imgs/goodBoo.gif)
 
 - :speak_no_evil: I like to practice Javascript logic exercices.
 - 🌱 I’m currently learning Node.Js
