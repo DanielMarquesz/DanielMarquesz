@@ -1,4 +1,4 @@
-## Hello! And thanks for visiting my repository! :+1:
+## Hello! And thanks for visiting my profile! :+1:
 
 ![alt text](https://github.com/DanielMarquesz/DanielMarquesz/blob/master/imgs/goodBoo.gif)
 
