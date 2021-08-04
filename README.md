@@ -13,7 +13,7 @@
 
 <hr>
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielMarquesz&hide_border=true&count_private=true&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/><img src = "https://github-readme-stats.vercel.app/api?username=DanielMarquesz&show_icons=true&theme=dark&line_height=27&hide_border=true">
 
 <hr>
 
