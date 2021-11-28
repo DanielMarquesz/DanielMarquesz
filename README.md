@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Jest-%23C21325?&logo=jest&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square">
 <div>
 
 
