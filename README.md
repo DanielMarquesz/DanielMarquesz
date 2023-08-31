@@ -3,8 +3,7 @@
  <h2>Hello! And thanks for visiting my profile! :+1: </h2>
  <br>
  My name is Daniel da Conceição Marques.
- <p>I'm a student of the course Tecnologia em Sistemas da Computação by Universidade Federal Fluminense.</p>
- <p>Im currently working as a Intern Software Engenieer at <a href="https://www.ton.com.br/">Ton</a>.</p>
+ <p>Im currently working as a Backend Software Engenieer at <a href="https://www.ton.com.br/">Ton</a>.</p>
  <p>You can reach me here <a href="https://www.linkedin.com/in/daniel-marque-dev/">Linkedin</a>.</p>
   <br>
  <h3>I have the knowlodge of the following technologies.</h3>
