@@ -32,12 +32,5 @@
   <img src="https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white&style=flat-square"/>
 <div>
 
-
-<hr>
-
-<br/><img src = "https://github-readme-stats.vercel.app/api?username=DanielMarquesz&show_icons=true&theme=dark&line_height=27&hide_border=true">
-
-<hr>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMarquesz&hide_border=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
